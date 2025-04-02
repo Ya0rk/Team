@@ -10,7 +10,7 @@ import { ElTooltip } from "element-plus";
     <img class="mask arrow" src="../assets/bg/arrow.png">
     <div class="mask social-icons">
       <el-tooltip content="Bilibili" placement="top">
-        <a target="_blank" href="https://space.bilibili.com/3546725136468673?spm_id_from=333.1007.0.0" class="bilibili">
+        <a target="_blank" href="https://space.bilibili.com/3546725136468673" class="bilibili">
           <img src="../assets/bg/bilibili.png" width="30px" height="30px" />
         </a>
       </el-tooltip>
