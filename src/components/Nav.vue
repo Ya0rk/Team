@@ -3,8 +3,8 @@
         <div class="container">
             <!-- Logo 区域 -->
             <div class="nav-brand">
-                <img class="logo-img" src="@/assets/bg/webicon.png" alt="Del0n1x Logo" />
-                <div class="logo-text">Del0n1x</div>
+                <img class="logo-img" src="/Del0n1x.svg" alt="Del0n1x Logo" />
+                <div class="logo-text"> Del0n1x </div>
             </div>
             
             <!-- 桌面端菜单 -->
