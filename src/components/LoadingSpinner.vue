@@ -29,7 +29,7 @@ const props = defineProps({
   left: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(135deg, #0a0a0a 0%, #1a1a1a 100%);
+  background-color: #0a0a0a;
   display: flex;
   justify-content: center;
   align-items: center;

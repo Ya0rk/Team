@@ -60,7 +60,7 @@ const handleError = (error) => {
   position: relative;
   width: 100%;
   height: 100vh;
-  background: linear-gradient(135deg, #0a0a0a 0%, #1a1a1a 100%);
+  background-color: #0a0a0a;
 }
 
 .router-view-wrapper {
@@ -79,7 +79,7 @@ const handleError = (error) => {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: linear-gradient(135deg, #0a0a0a 0%, #1a1a1a 100%);
+  background-color: #0a0a0a;
   z-index: 9998;
 }
 
